@@ -1,2 +1,2 @@
 # linux-mini-projects
-Advance my Linux skills when I am already comfortable with the basics with mini projects
+Advance my Linux skills with these mini projects after I am comfortable with the basics.
